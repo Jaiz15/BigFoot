@@ -1,0 +1,94 @@
+{
+	"name": "bigfoot:bigfoot_forest/bigfoot_forest_trees",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 10,
+		"element": {
+			"location": "bigfoot:bigfoot/forest_tree_01",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element",
+			"override_liquid_settings": "apply_waterlogging"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "bigfoot:bigfoot/forest_tree_02",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element",
+			"override_liquid_settings": "apply_waterlogging"
+		}
+	},
+		{
+			"weight": 10,
+			"element": {
+				"location": "bigfoot:bigfoot/forest_tree_03",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element",
+				"override_liquid_settings": "apply_waterlogging"
+			}
+		},
+		{
+			"weight": 10,
+			"element": {
+				"location": "bigfoot:bigfoot/forest_tree_04",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element",
+				"override_liquid_settings": "apply_waterlogging"
+			}
+		},
+		{
+			"weight": 10,
+			"element": {
+				"location": "bigfoot:bigfoot/forest_tree_05",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element",
+				"override_liquid_settings": "apply_waterlogging"
+			}
+		},
+		{
+			"weight": 10,
+			"element": {
+				"location": "bigfoot:bigfoot/forest_tree_06",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element",
+				"override_liquid_settings": "apply_waterlogging"
+			}
+		},
+		{
+			"weight": 10,
+			"element": {
+				"location": "bigfoot:bigfoot/forest_tree_07",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element",
+				"override_liquid_settings": "apply_waterlogging"
+			}
+		},
+		{
+			"weight": 10,
+			"element": {
+				"location": "bigfoot:bigfoot/forest_tree_08",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element",
+				"override_liquid_settings": "apply_waterlogging"
+			}
+		},
+		{
+			"weight": 10,
+			"element": {
+				"location": "bigfoot:bigfoot/forest_tree_09",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element",
+				"override_liquid_settings": "apply_waterlogging"
+			}
+		}
+]
+}

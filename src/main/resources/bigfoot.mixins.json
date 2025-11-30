@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "jaiz.bigfoot.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ShootWithoutScopeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "ClickDetectorMixin"
+  ]
+}

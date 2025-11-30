@@ -1,0 +1,14 @@
+{
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 12465995,
+		"separation": 0,
+		"spacing": 1,
+		"spread_type": "triangular"
+	},
+	"structures": [{
+		"structure": "bigfoot:bigfoot_forest_trees",
+		"weight": 1
+	}
+	]
+}

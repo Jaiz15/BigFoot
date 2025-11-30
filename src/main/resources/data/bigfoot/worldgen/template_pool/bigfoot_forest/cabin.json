@@ -1,0 +1,42 @@
+{
+	"name": "bigfoot:bigfoot_forest/cabin",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 1,
+		"element": {
+			"location": "bigfoot:bigfoot/cabin_01",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element",
+			"override_liquid_settings": "apply_waterlogging"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "bigfoot:bigfoot/cabin_02",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element",
+			"override_liquid_settings": "apply_waterlogging"
+		}
+	},{
+		"weight": 3,
+		"element": {
+			"location": "bigfoot:bigfoot/cabin_03",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element",
+			"override_liquid_settings": "apply_waterlogging"
+		}
+	},{
+		"weight": 1,
+		"element": {
+			"location": "bigfoot:bigfoot/cabin_04",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element",
+			"override_liquid_settings": "apply_waterlogging"
+		}
+	}
+	]
+}

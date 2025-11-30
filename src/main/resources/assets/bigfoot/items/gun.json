@@ -1,0 +1,32 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "bigfoot:item/gun"
+        },
+        "when": [
+          "gui",
+          "ground",
+          "fixed"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "model": "minecraft:item/spyglass_in_hand",
+      "property": "minecraft:using_item",
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "bigfoot:item/gun_3d_using"
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "bigfoot:item/gun_3d"
+      }
+    },
+    "property": "minecraft:display_context"
+  }
+}

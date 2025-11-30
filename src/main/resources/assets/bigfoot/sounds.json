@@ -1,0 +1,64 @@
+{
+  "gun_shot": {
+    "subtitle": "sounds.bigfoot.gun_shot",
+    "sounds": [
+      "bigfoot:gun_shot_01",
+      "bigfoot:gun_shot_02",
+      "bigfoot:gun_shot_03",
+      "bigfoot:gun_shot_04",
+      "bigfoot:gun_shot_05"
+    ]
+  },
+  "bigfoot_ambient": {
+    "subtitle": "sounds.bigfoot.bigfoot_ambient",
+    "sounds": [
+      "bigfoot:bigfoot_ambient_01",
+      "bigfoot:bigfoot_ambient_02",
+      "bigfoot:bigfoot_ambient_03",
+      "bigfoot:bigfoot_ambient_04",
+      "bigfoot:bigfoot_ambient_05",
+      "bigfoot:bigfoot_ambient_06",
+      "bigfoot:bigfoot_ambient_07",
+      "bigfoot:bigfoot_ambient_08",
+      "bigfoot:bigfoot_ambient_09",
+      "bigfoot:bigfoot_ambient_10",
+      "bigfoot:bigfoot_ambient_11",
+      "bigfoot:bigfoot_ambient_12",
+      "bigfoot:bigfoot_ambient_13",
+      "bigfoot:bigfoot_ambient_14"
+    ]
+  },
+  "bigfoot_death": {
+    "subtitle": "sounds.bigfoot.bigfoot_death",
+    "sounds": [
+      "bigfoot:bigfoot_death_01",
+      "bigfoot:bigfoot_death_02",
+      "bigfoot:bigfoot_death_03",
+      "bigfoot:bigfoot_death_04",
+      "bigfoot:bigfoot_death_05",
+      "bigfoot:bigfoot_death_06",
+      "bigfoot:bigfoot_death_07"
+    ]
+  },
+  "bigfoot_forest_ambient": {
+    "subtitle": "sounds.bigfoot.bigfoot_forest_ambient",
+    "sounds": [{
+      "name": "bigfoot:bigfoot_forest_ambient_loop",
+      "stream": true,
+      "volume": 0.5
+    }
+    ]
+  },
+  "bigfoot_hurt": {
+    "subtitle": "sounds.bigfoot.bigfoot_hurt",
+    "sounds": [
+      "bigfoot:bigfoot_hurt_01",
+      "bigfoot:bigfoot_hurt_02",
+      "bigfoot:bigfoot_hurt_03",
+      "bigfoot:bigfoot_hurt_04",
+      "bigfoot:bigfoot_hurt_05",
+      "bigfoot:bigfoot_hurt_06",
+      "bigfoot:bigfoot_hurt_07"
+    ]
+  }
+}
